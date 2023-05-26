@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "LocalSQl",
+            "group": "Frolov`s",
+            "database": "main.sql"
+        }
+    ],
+    "sqltools.useNodeRuntime": true,
+    "dataworkspace.excludedProjects": [
+        "frolovscake/frolovscake.sqlproj"
+    ]
+}
